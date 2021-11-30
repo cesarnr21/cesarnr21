@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cesarnr21
-- 👀 I am an a Senior Electrical Engineering student at Villanova University. I’m interested in embedded software for Robotics, Linux, and other applications.
+- 👀 I am an a Senior Electrical Engineering student at Villanova University. I’m interested in embedded software for Robotics, Aerospace, Linux, and other applications.
 - 📫 Feel free to email me at cesarnr21@gmail.com
 
 <!---
