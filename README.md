@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cesarnr21
-- 👀 I am an a Engineer at the Aerospace Corporation. I’m interested in embedded software for Robotics, Aerospace, Linux, and other applications.
+- 👀 I am an a Engineer at the Aerospace Corporation. I’m interested in software for Robotics, Aerospace, Linux, and Machine Learning.
 - Most stuff in here are just personal projects related to my hobbies.
 - 📫 Feel free to email me at cesarnr21@gmail.com
 
